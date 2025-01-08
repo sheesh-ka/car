@@ -1,5 +1,5 @@
 import random
-
+#Chto-to pomenyal
 def load_words_from_file(filename):           #пары слово-определение
     try:
         with open(filename, 'r', encoding='utf-8') as file:
